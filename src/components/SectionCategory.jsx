@@ -38,7 +38,7 @@ const SectionCategory = () => {
 const SectionCategoryStyled = styled.section`
   .category-container {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
     grid-gap: 1.2rem;
     padding-top: 3rem;
   }
