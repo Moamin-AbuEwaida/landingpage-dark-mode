@@ -25,6 +25,19 @@ const GlobalStyle = createGlobalStyle`
         color: var(--color-white);
         font-size: 1.2rem;
         font-weight: 700;
+        background-color: var(--bg);
+    }
+
+    a{
+        color: var(--color-white);
+    }
+
+    p{
+        color: #ccc;
+    }
+
+    .title-container {
+        text-align: center;
     }
 `;
 
