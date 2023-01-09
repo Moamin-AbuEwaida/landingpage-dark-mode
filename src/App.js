@@ -1,5 +1,6 @@
 import Header from "./components/Header";
 import SectionCategory from "./components/SectionCategory";
+import SectionDownload from "./components/SectionDownload";
 import SectionJobs from "./components/SectionJobs";
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
       <Header />
       <SectionCategory />
       <SectionJobs />
+      <SectionDownload />
     </div>
   );
 }
