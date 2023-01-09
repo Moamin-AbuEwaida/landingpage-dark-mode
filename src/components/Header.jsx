@@ -116,11 +116,19 @@ const HeaderStyled = styled.header`
     transform: translate(-50%, -50%);
     text-align: center;
     width: 60%;
+    @media screen and (max-width: 767px) {
+      width: 90%;
+    }
     h1 {
       font-size: 3rem;
       span {
         font-size: 4rem;
         color: var(--color-primary);
+      }
+      @media screen and (max-width: 767px) {
+        font-size: 1.5rem span {
+          font-size: 3rem;
+        }
       }
     }
     .main-para {
