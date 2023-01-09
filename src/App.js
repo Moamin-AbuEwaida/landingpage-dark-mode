@@ -4,6 +4,7 @@ import SectionDownload from "./components/SectionDownload";
 import SectionFooter from "./components/SectionFooter";
 import SectionJobs from "./components/SectionJobs";
 import SectionStaff from "./components/SectionStaff";
+import ServiceSection from "./components/ServiceSection";
 import SubscribeSection from "./components/SubscribeSection";
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
       <SectionCategory />
       <SectionJobs />
       <SectionDownload />
+      <ServiceSection />
       <SectionStaff />
       <SubscribeSection />
       <SectionFooter />
