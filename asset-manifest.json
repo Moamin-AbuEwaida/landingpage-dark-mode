@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.js": "/landingpage-dark-mode/static/js/main.aba74d4f.js",
+    "static/media/hero.jpg": "/landingpage-dark-mode/static/media/hero.0d522128fbd7881841e8.jpg",
+    "static/media/business.jpg": "/landingpage-dark-mode/static/media/business.7091e3a9ea69e9a85cc8.jpg",
+    "static/media/avatar3.png": "/landingpage-dark-mode/static/media/avatar3.e948fbbc9a83b99be123.png",
+    "static/media/avatar2.png": "/landingpage-dark-mode/static/media/avatar2.abfb3a02a8b39f8a3145.png",
+    "static/media/avatar4.png": "/landingpage-dark-mode/static/media/avatar4.9d668ea7bef2fded4471.png",
+    "static/media/avatar1.png": "/landingpage-dark-mode/static/media/avatar1.39d5de58cde0a3afcfad.png",
+    "static/media/googleappstore.png": "/landingpage-dark-mode/static/media/googleappstore.c196655d8a8b42127929.png",
+    "static/media/appstore.png": "/landingpage-dark-mode/static/media/appstore.be497785d0cd66fda34a.png",
+    "static/media/img-7.svg": "/landingpage-dark-mode/static/media/img-7.e642f51ddb2f9cf23a71f7efabd5b2ea.svg",
+    "index.html": "/landingpage-dark-mode/index.html",
+    "static/media/apply2.svg": "/landingpage-dark-mode/static/media/apply2.1e3d2f8e6dbeab42b2aefa42ae38205d.svg",
+    "static/media/img-6.svg": "/landingpage-dark-mode/static/media/img-6.7f5f78b1168a9147c54884d407208933.svg",
+    "static/media/add.svg": "/landingpage-dark-mode/static/media/add.5f18f4093828ca4455a301a9d9861d7c.svg",
+    "static/media/create_account.svg": "/landingpage-dark-mode/static/media/create_account.efe0ae4b792d831f988f5b57ec79c1ae.svg",
+    "static/media/bookmark.svg": "/landingpage-dark-mode/static/media/bookmark.7aa499310083a2c777d87139135cc2e6.svg",
+    "static/media/search2.svg": "/landingpage-dark-mode/static/media/search2.4f270c39e65318c5a9cb128415d778f8.svg",
+    "static/media/search.svg": "/landingpage-dark-mode/static/media/search.a211762899e42e01272db4c71d90419e.svg",
+    "static/media/img-5.svg": "/landingpage-dark-mode/static/media/img-5.6b2517122bf7d22e847593454237b51a.svg",
+    "static/media/star_half.svg": "/landingpage-dark-mode/static/media/star_half.7dd8f8a17889b4c96c9b09a02d06bb38.svg",
+    "static/media/logo.svg": "/landingpage-dark-mode/static/media/logo.ebece5ae0425fe23b71802a3624ae904.svg",
+    "static/media/img-3.svg": "/landingpage-dark-mode/static/media/img-3.93f807fd0a5845ca546442d8244fdd4b.svg",
+    "static/media/img-2.svg": "/landingpage-dark-mode/static/media/img-2.928981e2fe938f11eabb1ef5ffad1afa.svg",
+    "static/media/star.svg": "/landingpage-dark-mode/static/media/star.dec0330a416451bb98bfb0d76dfdc502.svg",
+    "static/media/img-1.svg": "/landingpage-dark-mode/static/media/img-1.6e25481608b312e78a1fe6b8802b2d30.svg",
+    "static/media/img-4.svg": "/landingpage-dark-mode/static/media/img-4.004c80ec7800d5b325f4c66d94340e4d.svg",
+    "main.aba74d4f.js.map": "/landingpage-dark-mode/static/js/main.aba74d4f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.aba74d4f.js"
+  ]
+}
